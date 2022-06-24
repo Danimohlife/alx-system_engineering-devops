@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vincent:staff 0X01-shell_permissions
+sudo chgrp -R vincent:staff 0X01-shell_permissions
