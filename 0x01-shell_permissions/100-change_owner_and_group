@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp -R vincent:staff 0X01-shell_permissions
+chown betty:holberton *
