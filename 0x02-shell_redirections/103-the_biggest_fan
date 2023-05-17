@@ -1,0 +1,2 @@
+#!/bin/bash
+akw -F'\f' '{print $1}' | sort | uniq -c | sort -rn | head -n 11
