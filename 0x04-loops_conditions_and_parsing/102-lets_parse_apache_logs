@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Using awk to process file data
+
+awk '{print $1, $4}' apache-access.log
