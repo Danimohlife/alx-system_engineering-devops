@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # pid show made easy
 
-grep -x bash
+pgrep -x bash
