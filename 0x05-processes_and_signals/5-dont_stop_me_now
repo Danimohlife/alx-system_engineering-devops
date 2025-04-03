@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Kill command
 
-pd=$(pgrep "4-to_infinity_and_beyond")
+pd=$(pgrep -x "4-to_infinity_and_beyond")
 
 if [ -n "$pd" ]; then
     kill "$pd"
