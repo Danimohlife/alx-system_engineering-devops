@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 # pid show made easy
 
-p
-grep -x bash
+ps
