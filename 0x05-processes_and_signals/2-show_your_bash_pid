@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # bash command search
 
-ps aux --forest | pgrep "bash"
+ps aux --forest | grep "bash"
