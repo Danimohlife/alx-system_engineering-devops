@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# neztat for view port
+
+netstat -tulnp
